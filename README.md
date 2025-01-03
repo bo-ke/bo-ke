@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎯 I’m currently working on `nlp`. 😎
-- 🌱 I’m currently learning `go`. 😅
 - 🤔 I'm thinking about how to write better code. 😁
-- 💬 Ask me about `python、go、nlp`.
+- 💬 Ask me about `python、nlp`.
 - 📫 How to reach me: [kebo.site](https://kebo.site)
 
 [![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=bo-ke)](https://github.com/bo-ke)
